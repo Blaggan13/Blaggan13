@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Tegbir Blaggan! <br/><a href="https://github.com/Blaggan13">Programmer</a>, <a href="https://www.linkedin.com/in/tegbirblaggan/">Cybersecurity</a> <a </h1>
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>C </b>
+  - [Password Manager](https://github.com/Blaggan13/Password-Manager)
+  - [Simple Calculator](https://github.com/Blaggan13/Simple-Calculator)
+
+- <b>C# </b>
+  - [Guessing game](https://github.com/Blaggan13/Guessing-game)
+  
+  
 <!--
-**Blaggan13/Blaggan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
