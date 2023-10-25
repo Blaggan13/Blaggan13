@@ -1,5 +1,6 @@
-<h1>Hi, I'm Tegbir Blaggan! <br/><a href="https://github.com/Blaggan13">Programmer</a>, <a href="https://www.linkedin.com/in/tegbirblaggan/">Cybersecurity</a> <a </h1>
+<h1>Hi, I'm Tegbir Blaggan! <br/><a href="https://github.com/Blaggan13">I develop 3D visuals, user</a>, <a href="https://www.linkedin.com/in/tegbirblaggan/">interfaces and web applications</a> <a </h1>
 
+<!--
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C </b>
@@ -8,6 +9,7 @@
 
 - <b>C# </b>
   - [Guessing game](https://github.com/Blaggan13/Guessing-game)
+  -->
   
   
 <!--
